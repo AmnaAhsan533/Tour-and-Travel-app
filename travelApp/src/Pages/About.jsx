@@ -4,7 +4,7 @@ import { Calendar, Compass, Heart, Users } from 'lucide-react'
 const milestones = [
   { year: '2024', title: 'Our Foundation', desc: 'Started with a simple mission to make the remote, spectacular northern regions of Pakistan accessible and safe.' },
   { year: '2025', title: 'Carbon Neutrality', desc: 'Committed to fully offset our travel footprints, running trash collection campaigns during treks.' },
-  { year: '2026', title: 'DevWeekends Collaboration', desc: 'Partnering with local regional hosts to bring localized tech workflows and eco-lodges into digital booking.' }
+  { year: '2026', title: 'Collaboration', desc: 'Partnering with local regional hosts to bring localized tech workflows and eco-lodges into digital booking.' }
 ]
 
 const About = () => {
